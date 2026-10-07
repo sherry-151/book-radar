@@ -66,7 +66,7 @@ python scraper.py --keyword "臺灣" --budget 500
 
 ## Demo
 
-[觀看約六分鐘的 Demo 影片]([https://youtu.be/你的影片代碼](https://youtu.be/9xYGwbRpEjw))
+[觀看約六分鐘的 Demo 影片](https://youtu.be/9xYGwbRpEjw)
 
 ## 學習與致謝
 
